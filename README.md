@@ -57,4 +57,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TranDatk&theme=dark&background=000000)](https://git.io/streak-stats)  
 
+![](https://github-readme-stats.vercel.app/api?username=TranDatk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranDatk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

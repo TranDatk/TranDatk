@@ -13,8 +13,9 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=TranDatk&style=flat-square&color=blue" alt=""/>
     <h1>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwYTMzaDJhMWxzM2ttZjV1ZnEyYnh5eDJrZmV2Mjd2aHFmZDIyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="30px"/>
       Hey there
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwYTMzaDJhMWxzM2ttZjV1ZnEyYnh5eDJrZmV2Mjd2aHFmZDIyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="30px"/>
     </h1>
 </div>
 <div align="center">
@@ -28,7 +29,9 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I often learning English and read tech articles.
+
+- ✍️ I'm also a Tech blogger on Viblo, you can read my posts here: https://viblo.asia/u/trandatk
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-trandat1103-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trandat1103/)
 

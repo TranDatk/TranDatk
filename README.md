@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRqNWxoMWVldGdubDJjdXJwcTE0ajJkZWkyaTRwZGs2enMzbjVpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdUr7e0X1Kjeg/giphy.gif" width="100" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVsenlpejhwNG5jNTZlam1wZHlnejR5Y3NxMnZ4ZmV4YzYwdW9nYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0VvDkS4j4Ia2RjAOS/giphy.gif" width="200" />
     <div id="badges" align="center">
       <a href="https://www.linkedin.com/in/trandat1103/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +18,7 @@
     </h1>
 </div>
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQ2OGY0aHF2Y2hyNW1pY3lqNnU0ZnJra3JwYmdnNjE3MnZxbGo1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12BYUePgtn7sis/giphy.gif" width="550" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGkzdms0ZWdhdnJkOWx6ZDZkbTFpYWMzN2RnNnhndGUwdmxkeWZicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOtqITm3tFmiA/giphy.gif" width="550" height="300"/>
 </div>
 
 ---

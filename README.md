@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVsenlpejhwNG5jNTZlam1wZHlnejR5Y3NxMnZ4ZmV4YzYwdW9nYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q0VvDkS4j4Ia2RjAOS/giphy.gif" width="200" />
+    <img src="https://media.tenor.com/dnFoWaEBIZ0AAAAj/evernight-everknight.gif" width="200" />
     <div id="badges" align="center">
       <a href="https://www.linkedin.com/in/trandat1103/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

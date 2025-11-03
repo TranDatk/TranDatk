@@ -11,13 +11,13 @@
         <img src="https://img.shields.io/badge/Facebook-yellow?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
       </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=TranDatk&style=flat-square&color=blue" alt=""/>
-    <h1>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwYTMzaDJhMWxzM2ttZjV1ZnEyYnh5eDJrZmV2Mjd2aHFmZDIyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="30px"/>
-      Hey there
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwYTMzaDJhMWxzM2ttZjV1ZnEyYnh5eDJrZmV2Mjd2aHFmZDIyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="30px"/>
-    </h1>
+
+![](https://count.getloli.com/get/@TranDatk.github.readme)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Victor+Tran;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Web+dev+learning+enthusiast)](https://git.io/typing-svg)
+    
 </div>
+
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGkzdms0ZWdhdnJkOWx6ZDZkbTFpYWMzN2RnNnhndGUwdmxkeWZicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOtqITm3tFmiA/giphy.gif" width="550" height="300"/>
 </div>
@@ -62,8 +62,13 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/TranDatk/TranDatk/output/github-contribution-grid-snake.svg)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TranDatk&theme=dark&background=000000)](https://git.io/streak-stats)  
 
 ![](https://github-readme-stats.vercel.app/api?username=TranDatk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranDatk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+

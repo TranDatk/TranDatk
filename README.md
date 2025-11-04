@@ -80,5 +80,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TranDatk/TranDatk&type=Date)](https://star-history.com/#TranDatk/TranDatk&Date)
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TranDatk/TranDatk&type=date&legend=top-left)](https://www.star-history.com/#TranDatk/TranDatk&type=date&legend=top-left)
 

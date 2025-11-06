@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/Facebook-yellow?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
       </a>
     </div>
-
+ 
 ![](https://count.getloli.com/get/@TranDatk.github.readme)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Victor+Tran;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Web+dev+learning+enthusiast)](https://git.io/typing-svg)

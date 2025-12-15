@@ -66,11 +66,9 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <!--   green snake -->
 ![Victor Tran's github activity graph](https://raw.githubusercontent.com/TranDatk/TranDatk/output/github-contribution-grid-snake.svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TranDatk&theme=dark&background=000000)](https://git.io/streak-stats)  
-
-![](https://github-readme-stats.vercel.app/api?username=TranDatk&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranDatk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=TranDatk&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=TranDatk&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TranDatk&layout=compact&theme=tokyonight)
 
 ---
 

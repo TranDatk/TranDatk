@@ -16,6 +16,10 @@
 
 ![](https://count.getloli.com/get/@TranDatk.github.readme?theme=booru-yuyuyui)
 
+<p align='center'>
+    <img src='https://github-widgetbox.vercel.app/api/profile?username=TranDatk&data=followers,repositories,stars,commits'>
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Victor+Tran;+Welcome+to+My+Profile!;Over+3+years+of+programming+experience;Always+learning+new+things+;Web+dev+learning+enthusiast)](https://git.io/typing-svg)
       
@@ -78,7 +82,8 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TranDatk" alt="TranDatk" /></a>
+    <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TranDatk" alt="TranDatk" /></a>-->
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TranDatk" alt="TranDatk" /></a>
 </p>
 
 ---

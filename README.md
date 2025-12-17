@@ -30,6 +30,8 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
+
+
 ### :woman_technologist: About Me : 
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.

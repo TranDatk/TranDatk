@@ -29,7 +29,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGkzdms0ZWdhdnJkOWx6ZDZkbTFpYWMzN2RnNnhndGUwdmxkeWZicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOtqITm3tFmiA/giphy.gif" width="550" height="300"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 ### :woman_technologist: About Me : 
 I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -42,7 +42,9 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-trandat1103-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trandat1103/)
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
@@ -159,7 +161,8 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
+
 
 ### :fire: My Stats :
 
@@ -172,14 +175,18 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TranDatk&layout=compact&theme=tokyonight)
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
+
 
 <p align="center"> 
     <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TranDatk" alt="TranDatk" /></a>-->
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TranDatk" alt="TranDatk" /></a>
 </p>
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
+
 
 ### Star History
 

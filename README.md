@@ -183,7 +183,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 <p align="center"> 
     <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TranDatk" alt="TranDatk" /></a>-->
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TranDatk" alt="TranDatk" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.vercel.app/?username=TranDatk&theme=aura" alt="TranDatk" /></a>
 </p>
 
 
